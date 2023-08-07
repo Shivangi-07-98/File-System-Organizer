@@ -1,0 +1,3 @@
+# File-System-Organizer
+A global command line application using Node.js. It organizes all your files from a folder into different section so that you need not do it manually. If we have lot of files in a particular folder then it will arrange the files in thier extensions category. In this we are going to show the files and folders by using a particular format as tree.
+In this we are going to organise the folders with their respective file extensions as media, archives, documents and apps.
